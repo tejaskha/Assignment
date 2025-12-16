@@ -1,0 +1,14 @@
+body{
+    background-color: #f8f9fa;
+}
+
+.card{
+    max-width: 500px;
+    margin: auto;
+}
+
+.list-group-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
